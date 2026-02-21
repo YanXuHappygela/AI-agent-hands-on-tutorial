@@ -5,7 +5,7 @@ Session 1: Build your first FREE AI agent with Ollama and Strands. [colab](https
 
 Session 2: Build a RAG agent for document retrieval applications.  [colab](https://colab.research.google.com/drive/1Y1QzWOw-cPqLBpwafqDaV0otmm-O2gkA?usp=sharing), [recording](https://youtu.be/1bRM9xWvKxs?si=tgpjWr5attnIoWnk)
 
-Session 3: Build a research assistant with a multi-agent framework.
+Session 3: Build a deep research assistant with a multi-agent framework.[colab](https://colab.research.google.com/drive/1KmD6jtUAIMydKdp8eLgant-abyNV_aSI?usp=sharing), [recording](https://youtu.be/JZ-r5QKfGxg)
 
 Session 4: Build a stock market analyzer with MCP.
 
