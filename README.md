@@ -7,7 +7,7 @@ Session 2: Build a RAG agent for document retrieval applications.  [colab](https
 
 Session 3: Build a deep research assistant with a multi-agent framework.[colab](https://colab.research.google.com/drive/1KmD6jtUAIMydKdp8eLgant-abyNV_aSI?usp=sharing), [recording](https://youtu.be/JZ-r5QKfGxg)
 
-Session 4: Build skills for Agent Skills.
+Session 4: Build skills for agents—baseline vs skilled comparative study. [notebook](./Agent_Skills_Baseline_vs_Skilled.ipynb) — Learn how structured skills improve agent reliability through JSON contracts, budgeting, caching, and a scoreboard-tracked comparative demo.
 
 Session 5: Build a stock market analyzer with MCP.
 
