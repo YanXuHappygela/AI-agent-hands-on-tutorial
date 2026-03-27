@@ -52,10 +52,10 @@ pipenv-Pipfile.lock
 # Project-Specific Generated Files
 agent_outputs/
 demo_cache/
-BASELINE_REPORT.md
-SKILLED_REPORT.md
+# BASELINE_REPORT.md
+# SKILLED_REPORT.md
 COMPARISON_ANALYSIS.md
-COMPARISON_ANALYSIS_REVISED.md
+# COMPARISON_ANALYSIS_REVISED.md
 BASELINE_ANALYSIS.md
 SKILLED_ANALYSIS.md
 docs/Session4/*
