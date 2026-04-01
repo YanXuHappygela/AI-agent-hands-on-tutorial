@@ -17,9 +17,9 @@ Resources:
 - Notebook: [Agent_Skills_Comparative_Study.ipynb](Agent_Skills_Comparative_Study.ipynb)
 - Presentation Guide: [docs/session4_presentation_guide.md](docs/session4_presentation_guide.md)
 - Analysis & Metrics:
-  - [COMPARISON_ANALYSIS_REVISED.md](COMPARISON_ANALYSIS_REVISED.md) - Corrected metrics with quality-over-quantity insight
-  - [docs/enhanced_quality_metrics.md](docs/enhanced_quality_metrics.md) - 7-metric quality framework (SQS, ATI, TCR, IDS, NCS, AI, CQS)
-  - [docs/source_collection_analysis.md](docs/source_collection_analysis.md) - **NEW** Source collection vs. citation analysis (verified: Scenario C - both constraints active)
+  - [COMPARISON_ANALYSIS_REVISED.md](docs/Session4_artifacts/COMPARISON_ANALYSIS_REVISED.md) - Corrected metrics with quality-over-quantity insight
+  - [docs/enhanced_quality_metrics.md](docs/Session4_artifacts/enhanced_quality_metrics.md) - 7-metric quality framework (SQS, ATI, TCR, IDS, NCS, AI, CQS)
+  - [docs/source_collection_analysis.md](docs/Session4_artifacts/source_collection_analysis.md) - **NEW** Source collection vs. citation analysis (verified: Scenario C - both constraints active)
 
 [Recording coming soon]
 
