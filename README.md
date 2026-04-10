@@ -19,13 +19,18 @@ Resources:
 - Analysis & Metrics:
   - [COMPARISON_ANALYSIS_REVISED.md](COMPARISON_ANALYSIS_REVISED.md) - Corrected metrics with quality-over-quantity insight
   - [docs/enhanced_quality_metrics.md](docs/enhanced_quality_metrics.md) - 7-metric quality framework (SQS, ATI, TCR, IDS, NCS, AI, CQS)
-  - [docs/source_collection_analysis.md](docs/source_collection_analysis.md) - **NEW** Source collection vs. citation analysis (verified: Scenario C - both constraints active)
-
-[Recording coming soon]
+  - [docs/source_collection_analysis.md](docs/source_collection_analysis.md)
+- [recording](https://youtu.be/tDHc7OYK4Pw?si=J06_HBUtBmRx33ny)
 
 ---
 
-Session 5: Build a stock market analyzer with MCP.
+Session 5: Build a financial stock analyst agent with MCP. 
+Resources:
+- Notebook: [Agent_Skills_Comparative_Study.ipynb](Stock_Analyst_Agent_with_MCP.ipynb)
+- MCP server: [stock_mcp_server.py](stock_mcp_server.py)
+- How to run: Upload both of the files to the same folder, and the notebook should run
+- [Recording coming soon]
 
-Session 6:
+---
+Session 6: Deploy Agent using AgentCore
 
